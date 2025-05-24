@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm CHEKIRED Mohamed Islam
 
-<!--
-**islamech/islamech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Developer | Passionate about Web & Software Development  
+💻 Technologies: Java (JEE, JSP, JSTL), PHP, C++, HTML, CSS, JavaScript  
+🗄️ Databases: SQL, MySQL, SQL Server  
+📍 Location: Algeria
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Java-User-Manager](https://github.com/islamech/Java-User-Manager): A beginner-friendly Java console application for managing users.
+- [simple-todo-list](https://github.com/islamech/simple-todo-list): My first simple To-Do List project using HTML and CSS.
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/chekired-mohamed-islam-a2b549255/)
