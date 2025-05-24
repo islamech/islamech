@@ -44,7 +44,7 @@
 
 ## ✉️ Contact Me
 
-📧 Email: islamech.dev@gmail.com  
+📧 Email: islemmohameeed@gmail.com  
 💼 LinkedIn: [linkedin.com/in/chekired-mohamed-islam](https://www.linkedin.com/in/chekired-mohamed-islam-a2b549255)
 
 ---
