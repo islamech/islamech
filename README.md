@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Islam CHEKIRED</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Software+Developer; Java+%7C+Python+%7C+Web+Dev+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Software+Developer;Java+%7C+Python+%7C+Web+Dev+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
